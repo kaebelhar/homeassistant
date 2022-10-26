@@ -10,7 +10,7 @@ blueprint:
       Zen switch that you would like to configure."
       selector:
         entity:
-          domain: zwave
+          domain: switch
 
     on_1x:
       name: Press On (1x)
